@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ompanpatil513@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Amazing fact : **I Do Calisthenics**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
