@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ompanpatil" alt="ompanpatil" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ironfist_csw" target="blank"><img src="https://img.shields.io/twitter/follow/@ironfist_csw?logo=twitter&style=for-the-badge" alt="@ironfist_csw" /></a> </p>
+### Info Section : 
 
 - 🌱 I’m currently learning **Java,full-Stack-Web-Development**
 
