@@ -15,18 +15,17 @@
 
 - ⚡ Amazing fact : **I Do Calisthenics**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/om panpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="om panpatil" height="30" width="40" /></a>
-<a href="https://twitter.com/@ironfist_csw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ironfist_csw" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/om panpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om panpatil" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@om panpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@om panpatil" height="30" width="40" /></a>
-<a href="https://discord.gg/@ironfist#8478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@ironfist#8478" height="30" width="40" /></a>
-</p>
+### Connect with me on : 
+
+[<img align="left" alt="X" src="https://img.shields.io/badge/-linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF"
+      />](https://www.linkedin.com/in/om-panpatil-b59483273/)
+
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/-Ironfist_csw-%23000000?style=for-the-badge&logo=x&logoColor=%23FFFFFF"
+      />](https://x.com/Ironfist_csw)
+
+<br> <br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ompanpatil&show_icons=true&locale=en&layout=compact" alt="ompanpatil" /></p>
 
