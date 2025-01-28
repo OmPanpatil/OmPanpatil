@@ -9,7 +9,7 @@
 
 ### Info Section : 
 
-- 🌱 I’m currently learning **Java,full-Stack-Web-Development**
+- 🌱 I’m currently learning **JavaScript,full-Stack-Web-Development, DSA**
 
 - 📫 How to reach me **ompanpatil513@gmail.com**
 
