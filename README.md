@@ -23,7 +23,7 @@
       />](https://www.linkedin.com/in/om-panpatil-b59483273/)
 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/-Ironfist_csw-%23000000?style=for-the-badge&logo=x&logoColor=%23FFFFFF"
-      />](https://x.com/Ironfist_csw)
+      />](https://x.com/hyeeshred)
 
 <br> <br><br>
 
