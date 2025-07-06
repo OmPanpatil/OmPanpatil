@@ -34,5 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ompanpatil&" alt="ompanpatil" /></p>
 
-[![OmPanpatil's GitHub | Stats](https://stats.quine.sh/OmPanpatil/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=OmPanpatil)
 
