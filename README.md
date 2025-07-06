@@ -22,7 +22,7 @@
 [<img align="left" alt="X" src="https://img.shields.io/badge/-linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF"
       />](https://www.linkedin.com/in/om-panpatil-b59483273/)
 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/-Ironfist_csw-%23000000?style=for-the-badge&logo=x&logoColor=%23FFFFFF"
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/-Hyeeshred-%23000000?style=for-the-badge&logo=x&logoColor=%23FFFFFF"
       />](https://x.com/hyeeshred)
 
 <br> <br><br>
